@@ -1,8 +1,14 @@
-Untitled
+My example report of something cool
 ================
 
 GitHub Documents
 ----------------
+
+``` r
+plot(1:10, typ="o", col="blue")
+```
+
+![](rstudio_report_files/figure-markdown_github/unnamed-chunk-1-1.png)
 
 This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
 
