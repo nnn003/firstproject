@@ -5,7 +5,7 @@ GitHub Documents
 ----------------
 
 ``` r
-plot(1:10, typ="o", col="blue")
+plot(1:10, typ="o", col="red", lwd=3)
 ```
 
 ![](rstudio_report_files/figure-markdown_github/unnamed-chunk-1-1.png)
